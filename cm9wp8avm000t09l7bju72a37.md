@@ -136,7 +136,7 @@ sudo update-grub
 Run this to finish up:
 
 ```bash
-bashCopyEditsudo dpkg --configure -a
+sudo dpkg --configure -a
 sudo apt install -f
 ```
 
