@@ -123,7 +123,7 @@ GRUB_CMDLINE_LINUX=systemd.unified_cgroup_hierarchy=0
 #### 🔄 Step 4: Update GRUB
 
 ```bash
-bashCopyEditsudo update-grub
+sudo update-grub
 ```
 
 > 📋 If a popup appears, **select the 2nd option** (usually your system disk), then press **OK**.  
