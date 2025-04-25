@@ -7,7 +7,7 @@ cuid: cm9wp8avm000t09l7bju72a37
 slug: create-your-own-leetcode-with-judge
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745582657835/810949ac-2ad3-4763-9277-d14656025769.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745582636190/88962e46-6bfe-48bd-bc4c-560f1739e969.png
-tags: leetcode, judge0, codeengine, judge0setup
+tags: web-development, leetcode, judge0, chaicode, chaicohort, codeengine, judge0setup, chaicodecohort
 
 ---
 
