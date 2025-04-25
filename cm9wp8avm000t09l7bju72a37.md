@@ -1,11 +1,12 @@
 ---
 title: "💻 Create Your Own LeetCode with Judge🔥"
-seoTitle: "build your own leetocode , judge0 setup "
+seoTitle: "build your own leetocode , judge0 setup"
 seoDescription: "setting up judge0 for windows and mac users"
 datePublished: Fri Apr 25 2025 11:19:06 GMT+0000 (Coordinated Universal Time)
 cuid: cm9wp8avm000t09l7bju72a37
 slug: create-your-own-leetcode-with-judge
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745579527577/6d6ee461-227c-43e4-a8d4-bc7f361ce707.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745582657835/810949ac-2ad3-4763-9277-d14656025769.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745582636190/88962e46-6bfe-48bd-bc4c-560f1739e969.png
 tags: leetcode, judge0, codeengine, judge0setup
 
 ---
